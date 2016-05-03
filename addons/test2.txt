@@ -3,10 +3,12 @@ main()
   print 'abc';
 }
 test
-test3
+te PCB TOC st3
 From C to B
 
 Function (){
 
 var ok_pcb=0;
 }
+
+print 'OK'
