@@ -1,3 +1,12 @@
+main()
+{
+  print 'abc';
+}
 test
-test2
 test3
+From C to B
+
+Function (){
+
+var ok_pcb=0;
+}
